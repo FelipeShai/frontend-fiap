@@ -13,7 +13,7 @@
 ## Link para o site: 
 
 <h4 align="center"> 
-	https://felipeshai.github.io/frontend-fiap/
+	https://felipeshai.github.io/restaurante-fiap/
 </h4>
 
 ## Status do Projeto: 
